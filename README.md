@@ -1,2 +1,2 @@
 # CSharpAPIS
-C# APIs org contains some small but useful APIs written in C# ASP.NET which mostly use Entity Framework (Microsoft EF) as database.
+This repository contains [profile](/profile/README.md) file for the org.
